@@ -61,3 +61,35 @@
 //     console.log(result);
 // }
 // add(1,2);
+
+// increment tricks
+
+// var x = 3;
+// x++;
+// console.log(x);
+
+// var x = 3;
+// ++x;
+// console.log(x);
+
+// var x = 3;
+// console.log(x++);
+
+// var x = 3;
+// console.log(++x);
+
+// comparison operator
+
+// let x = (1<5);
+// console.log(x);
+
+// let d = 4;
+
+// console.log(d>=2);
+
+// equality operator
+
+// console.log('1' > 5);
+
+
+// console.log('sri' > 'selva');
